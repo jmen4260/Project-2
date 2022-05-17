@@ -1,0 +1,44 @@
+body{
+background-color: lavender;
+}
+h1{
+  font-size: 30px;
+  text-align: center;
+  background-color: beige;
+}
+h2{
+  font-size: 20px;
+}
+h3{
+  font-size: 20px;
+}
+h4{
+  font-size: 20px;
+}
+h5{
+  font-size: 20px;
+}
+h6{
+  font-size: 20px;
+}
+h7{
+  font-size: 20px;
+  font-weight: bold;
+}
+h8{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+
+.column{
+  background-color: rosybrown;
+  width: 300px;
+  border: 4px solid cadetblue;
+  padding: 10px;
+  float: left;
+  margin: 20px;
+  font-size: 16px;
+}
+
+
